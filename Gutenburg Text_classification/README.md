@@ -1,4 +1,4 @@
-# **Text Classification Project**
+# **Gutenburg Text Classification Project**
 **!! NOTE !!**
 - **If it is required to run the code from colab, change run time type to GPU.**
 -  [Text_Classification_Assignment](https://colab.research.google.com/drive/1-pq3XEWFu0r_9veYj5pJy9l1wfjlbJdH?usp=sharing#scrollTo=xENuM02UbaYG "Text_Classification_Assignment")
